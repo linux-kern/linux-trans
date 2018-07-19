@@ -1,3 +1,26 @@
+Chinese translated version of Documentation/block/queue-sysfs.txt
+ 
+If you have any comment or update to the content, please contact the 
+original document maintainer directly.  However, if you have a problem
+communicating in English you can also ask the Chinese maintainer for 
+help.  Contact the Chinese maintainer if this translation is outdated
+or if there is a problem with the translation.
+
+---------------------------------------------------------------------
+Documentation/block/queue-sysfs.txt 的中文翻译
+
+如果想评论或更新本文的内容，请直接联系原文档的维护者。如果你使用英文
+交流有困难的话，也可以向中文版维护者求助。如果本翻译更新不及时或者翻
+译存在问题，请联系中文版维护者。
+
+英文版维护者： Jens Axboe <jens.axboe@oracle.com>
+中文版维护者： 项男 Xiang Nan <norman.kern@gmx.com>
+中文版翻译者： 项男 Xiang Nan <norman.kern@gmx.com>
+中文版校译者： 
+
+以下为正文
+---------------------------------------------------------------------
+
 队列 sysfs 文件
 ================================================================================
 这个文件将会详细描述位于每个块设备sysfs目录树下的队列文件。注意，堆叠设备典型地不会
