@@ -1,4 +1,4 @@
-> Chinese translated version of Documentation/block/queue-sysfs.txt    
+**Chinese translated version of Documentation/block/queue-sysfs.txt**    
  
 If you have any comment or update to the content, please contact the   
 original document maintainer directly.  However, if you have a problem  
@@ -19,7 +19,8 @@ Documentation/block/queue-sysfs.txt 的中文翻译
 中文版校译者： 项男 Norman Kern <norman.kern@gmx.com\>  
 
 以下为正文
-================================================================================
+
+--------------------------------------------------------------------------------
 
 队列 sysfs 文件
 ================================================================================
