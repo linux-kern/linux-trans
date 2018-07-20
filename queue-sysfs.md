@@ -13,10 +13,10 @@ Documentation/block/queue-sysfs.txt 的中文翻译
 交流有困难的话，也可以向中文版维护者求助。如果本翻译更新不及时或者翻
 译存在问题，请联系中文版维护者。
 
-英文版维护者： Jens Axboe <jens.axboe@oracle.com>  
+英文版维护者： Jens Axboe <jens.axboe@oracle.com\>  
 中文版维护者： 项男 Norman Kern <norman.kern@gmx.com\>  
 中文版翻译者： 项男 Norman Kern <norman.kern@gmx.com\>  
-中文版校译者：   
+中文版校译者： 项男 Norman Kern <norman.kern@gmx.com\>  
 
 以下为正文
 ================================================================================
