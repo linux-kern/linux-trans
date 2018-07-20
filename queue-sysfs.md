@@ -1,10 +1,10 @@
-Chinese translated version of Documentation/block/queue-sysfs.txt
+> Chinese translated version of Documentation/block/queue-sysfs.txt    
  
-If you have any comment or update to the content, please contact the 
-original document maintainer directly.  However, if you have a problem
-communicating in English you can also ask the Chinese maintainer for 
-help.  Contact the Chinese maintainer if this translation is outdated
-or if there is a problem with the translation.
+If you have any comment or update to the content, please contact the   
+original document maintainer directly.  However, if you have a problem  
+communicating in English you can also ask the Chinese maintainer for   
+help.  Contact the Chinese maintainer if this translation is outdated  
+or if there is a problem with the translation.  
 
 ---------------------------------------------------------------------
 Documentation/block/queue-sysfs.txt 的中文翻译
@@ -13,13 +13,13 @@ Documentation/block/queue-sysfs.txt 的中文翻译
 交流有困难的话，也可以向中文版维护者求助。如果本翻译更新不及时或者翻
 译存在问题，请联系中文版维护者。
 
-英文版维护者： Jens Axboe <jens.axboe@oracle.com>
-中文版维护者： 项男 Xiang Nan <norman.kern@gmx.com>
-中文版翻译者： 项男 Xiang Nan <norman.kern@gmx.com>
-中文版校译者： 
+英文版维护者： Jens Axboe <jens.axboe@oracle.com>  
+中文版维护者： 项男 Norman Kern <norman.kern@gmx.com\>  
+中文版翻译者： 项男 Norman Kern <norman.kern@gmx.com\>  
+中文版校译者：   
 
 以下为正文
----------------------------------------------------------------------
+================================================================================
 
 队列 sysfs 文件
 ================================================================================
